@@ -24,13 +24,13 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a **passionate Full Stack Developer** specializing in building **scalable, production-ready web applications**. I enjoy turning real-world problems into clean, reliable software, and I'm always learning modern technologies to deliver better solutions.
+I'm a **Full Stack Developer** dedicated to building **scalable, responsive, and production-ready web applications**. I specialize in modern JavaScript/TypeScript ecosystems, combining clean user interfaces with robust backend architectures and well-structured databases.
 
-- 🎨 I care deeply about **clean, intuitive UI**
-- ⚙️ I love **backend architecture, REST APIs, and database design**
-- 🧩 I solve **real-world problems** through practical software
-- 📚 I believe in **continuous learning** and writing maintainable code
-- 🌍 Based in **Ethiopia 🇪🇹**, building for the world
+- 🎨 **Frontend**: Pixel-perfect, intuitive user interfaces with React, Next.js & Tailwind CSS
+- ⚙️ **Backend**: Clean RESTful APIs, modular architectures, and scalable services with Node.js & Express
+- 🗄️ **Databases**: Reliable data modeling and query optimization with MySQL, MongoDB & Prisma
+- 🔐 **Security & Quality**: Secure authentication, role-based access control (RBAC), and maintainable code
+- 🌍 **Location**: Based in **Ethiopia 🇪🇹**, available for remote work and global opportunities
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -39,9 +39,9 @@ I'm a **passionate Full Stack Developer** specializing in building **scalable, p
 const mitiku = {
   role: "Full Stack Developer",
   location: "Ethiopia 🇪🇹",
-  focus: ["Web Apps", "APIs", "Databases"],
-  mindset: "Learn. Build. Improve.",
-  status: "Open to opportunities ✅",
+  focus: ["Next.js", "Node.js", "TypeScript", "SQL/NoSQL"],
+  mindset: "Learn. Build. Optimize.",
+  status: "Open to opportunities 🚀",
 };
 ```
 
@@ -53,9 +53,9 @@ const mitiku = {
 
 ## 🎯 Current Focus
 
-| 🔭 Working On | 🌱 Learning | 🤝 Open To |
+| 🔭 Working On | 🌱 Learning & Mastering | 🤝 Open To |
 |:---|:---|:---|
-| Scalable full-stack applications with **Next.js** & **Node.js** | Advanced **TypeScript**, system design & API architecture | Collaborations, freelance work & full-time roles |
+| Scalable full-stack SaaS applications with **Next.js** & **Node.js** | Advanced **TypeScript**, system architecture & cloud deployment | Full-time roles, freelance projects & open-source collaborations |
 
 ---
 
@@ -63,33 +63,107 @@ const mitiku = {
 
 <div align="center">
 
-<img src="assets/tech-stack.svg" width="100%" alt="Animated tech stack"/>
+<img src="assets/tech-stack.svg" width="100%" alt="Tech stack visual"/>
 
 </div>
 
 <details>
-<summary><b>📋 View full skill badges</b></summary>
+<summary><b>📋 View Full Technology Badges</b></summary>
 <br/>
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Languages & Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 </details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Organization Member Management System (OMMS)
+Comprehensive full-stack management platform engineered to automate organizational records, role delegations, administrative audits, and member directories.
+
+* **Key Highlights**: Role-based access control (RBAC), structured relational schemas, and responsive administrative dashboards.
+* **Tech Stack**: React, Node.js, Express, MySQL
+
+<br/>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1/member-management)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://github.com/mitihans-1/member-management#live-demo)
+
+</td>
+<td width="50%" valign="top">
+
+### ⛽ FuelSync
+Smart fuel management solution designed to streamline fuel inventory, dispensing logs, quota allocations, and operational reporting.
+
+* **Key Highlights**: Real-time tracking interface, robust data validation, automated quota alerts, and Prisma ORM schema migrations.
+* **Tech Stack**: Next.js, TypeScript, Prisma, Tailwind CSS
+
+<br/>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://github.com/mitihans-1)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 University Grade Portal
+Secure academic management portal providing self-service grade lookups for students and role-restricted result submission workflows for instructors.
+
+* **Key Highlights**: JWT authentication, fine-grained access control, scalable MongoDB document models, and instant score aggregation.
+* **Tech Stack**: React, Node.js, Express, MongoDB
+
+<br/>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://github.com/mitihans-1)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 MarketLink Marketplace
+E-commerce platform connecting buyers and vendors with dynamic product catalogs, faceted search filtering, and seamless cart management.
+
+* **Key Highlights**: Server-side rendering (SSR) for fast page loads, optimized search indices, modular cart state, and modern UI.
+* **Tech Stack**: Next.js, Node.js, MongoDB, Tailwind CSS
+
+<br/>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://github.com/mitihans-1)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -108,109 +182,26 @@ const mitiku = {
 
 ---
 
-## 📈 Contribution Graph
+## 💡 Core Strengths & Engineering Practices
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mitihans-1&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Organization Member Management System (OMMS)
-A full-stack platform for managing organization members, roles, records, and administrative workflows efficiently.
-
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### ⛽ FuelSync
-A fuel management solution designed to streamline tracking, distribution, and reporting with a clean, user-friendly interface.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 University Grade Portal
-A secure academic portal where students can view grades and administrators can manage results with role-based access.
-
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 MarketLink Marketplace
-An online marketplace connecting buyers and sellers with product listings, search, and a smooth shopping experience.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements
-
-| | |
+| Focus Area | Engineering Capability |
 |:---|:---|
-| 🚀 | Built **multiple full-stack applications** covering management systems, portals, and marketplaces |
-| 🧱 | Designed **RESTful APIs** and structured **relational & NoSQL databases** |
-| 🎨 | Delivered **responsive, modern interfaces** with React, Next.js & Tailwind CSS |
-| 🔐 | Implemented **authentication and role-based access control** in real-world projects |
-| 📈 | Committed to **continuous learning** and consistent open development on GitHub |
-
-<div align="center">
-
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark-blue?style=for-the-badge&logo=github)
-![YOLO](https://img.shields.io/badge/Achievement-YOLO-orange?style=for-the-badge&logo=github)
-![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-green?style=for-the-badge&logo=github)
-
-</div>
-
-<sub>✏️ *Replace the badges above with the GitHub achievements you've actually earned.*</sub>
+| **Full-Stack Development** | Architecting end-to-end solutions from responsive UI layouts to backend business logic and database models |
+| **API Engineering** | Building clean REST APIs with structured error handling, route validation, and standard HTTP conventions |
+| **Data & ORM Modeling** | Designing relational (MySQL) and document (MongoDB) schemas using modern ORMs like Prisma |
+| **Security & Auth** | Implementing authentication with JWT / Session tokens and strict Role-Based Access Control (RBAC) |
+| **Code Quality** | Writing maintainable, modular, and readable code adhering to DRY and separation-of-concerns principles |
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-mitikumitihans%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitikumitihans@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mitihans--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitihans-1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR-TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 
 </div>
 
@@ -223,9 +214,9 @@ An online marketplace connecting buyers and sellers with product listings, searc
 
 <br/>
 
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
+⭐ **If you find my projects helpful or interesting, consider leaving a star!** ⭐
 
 <img src="assets/footer.svg" width="100%" alt="Animated footer"/>
 
-<sub>Made with ❤️ by <b>Mitiku Etafa</b> • Ethiopia 🇪🇹</sub>
+<sub>Designed & Built by <b>Mitiku Etafa</b> • Ethiopia 🇪🇹</sub>
 </div>
