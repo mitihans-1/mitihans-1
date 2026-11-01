@@ -106,6 +106,8 @@ const mitiku = {
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/projects/omms-preview.jpg" width="100%" alt="Organization Member Management System Mockup"/>
+
 ### 🏢 Organization Member Management System (OMMS)
 Comprehensive full-stack management platform engineered to automate organizational records, role delegations, administrative audits, and member directories.
 
@@ -119,6 +121,8 @@ Comprehensive full-stack management platform engineered to automate organization
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/projects/fuelsync-preview.jpg" width="100%" alt="FuelSync Smart Fuel Management Mockup"/>
 
 ### ⛽ FuelSync
 Smart fuel management solution designed to streamline fuel inventory, dispensing logs, quota allocations, and operational reporting.
@@ -136,6 +140,8 @@ Smart fuel management solution designed to streamline fuel inventory, dispensing
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/projects/grade-portal-preview.jpg" width="100%" alt="University Grade Portal Web Mockup"/>
+
 ### 🎓 University Grade Portal
 Secure academic management portal providing self-service grade lookups for students and role-restricted result submission workflows for instructors.
 
@@ -149,6 +155,8 @@ Secure academic management portal providing self-service grade lookups for stude
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/projects/marketlink-preview.jpg" width="100%" alt="MarketLink Marketplace E-Commerce Mockup"/>
 
 ### 🛒 MarketLink Marketplace
 E-commerce platform connecting buyers and vendors with dynamic product catalogs, faceted search filtering, and seamless cart management.
