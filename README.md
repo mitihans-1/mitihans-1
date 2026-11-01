@@ -2,10 +2,6 @@
 <div align="center">
 
 <img src="assets/banner.svg" width="100%" alt="Mitiku Etafa - Full Stack Software Developer"/>
-<!-- ===================== HEADER BANNER ===================== -->
-<div align="center">
-
-<img src="assets/banner.svg" width="100%" alt="Mitiku Etafa - Full Stack Software Developer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mitiku+%F0%9F%91%8B;Full+Stack+Developer+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;I+build+scalable+web+applications+%F0%9F%9A%80;Clean+UI+%E2%80%A2+Solid+APIs+%E2%80%A2+Reliable+Databases" alt="Typing animation"/>
