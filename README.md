@@ -132,7 +132,13 @@ const mitiku = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:38BDF8&height=3&section=header" width="100%" alt="divider"/>
+<div align="center">
 
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+
+<img src="assets/github-snake-dark.svg" width="100%" alt="Snake animation"/>
+
+</div>
 ## 🚀 Featured Projects
 
 <table>
