@@ -1,0 +1,49 @@
+name: Update GitHub Stats & 3D Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every night at 00:00 UTC
+  workflow_dispatch:      # Allows manual one-click trigger from the GitHub Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.2
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate Stats, Languages, and 3D Trophies SVGs
+        run: node scripts/generate-stats.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/ profile-3d-contrib/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update GitHub 3D stats and trophies [skip ci]"
+            git push
+          fi
+

@@ -183,13 +183,13 @@ E-commerce platform connecting buyers and vendors with dynamic product catalogs,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mitihans-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub 3D Trophies"/>
+<img src="assets/stats/trophies.svg" width="100%" alt="GitHub 3D Trophies"/>
 
 <br/>
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mitihans-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitihans-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+<img height="195" src="assets/stats/github-stats.svg" alt="GitHub Stats"/>
+<img height="195" src="assets/stats/top-langs.svg" alt="Top Languages"/>
 
 <br/>
 
