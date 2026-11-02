@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="assets/banner-3d.jpg" width="100%" alt="Mitiku Etafa - 3D Dev Station Full Stack Software Developer"/>
+<img src="assets/banner-3d.svg" width="100%" alt="Mitiku Etafa - Animated 3D Dev Station Full Stack Software Developer"/>
 
 <br/>
 <br/>
