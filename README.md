@@ -1,10 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="assets/banner-3d.svg" width="100%" alt="Mitiku Etafa - Animated 3D Dev Station Full Stack Software Developer"/>
-
-<br/>
-<br/>
+<img src="assets/banner.svg" width="100%" alt="Mitiku Etafa - Full Stack Software Developer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mitiku+%F0%9F%91%8B;Full+Stack+Developer+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;I+build+scalable+web+applications+%F0%9F%9A%80;Clean+UI+%E2%80%A2+Solid+APIs+%E2%80%A2+Reliable+Databases" alt="Typing animation"/>
@@ -37,10 +34,6 @@ I'm a **Full Stack Developer** dedicated to building **scalable, responsive, and
 
 </td>
 <td width="40%" align="center" valign="middle">
-
-<img src="assets/3d-developer.jpg" width="100%" alt="Mitiku - 3D Developer Illustration"/>
-
-<br/>
 
 ```js
 const mitiku = {
@@ -185,11 +178,6 @@ E-commerce platform connecting buyers and vendors with dynamic product catalogs,
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mitihans-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub 3D Trophies"/>
-
-<br/>
-<br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=mitihans-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitihans-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
