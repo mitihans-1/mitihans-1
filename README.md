@@ -149,7 +149,7 @@ Smart fuel management solution designed to streamline fuel inventory, dispensing
 
 ### 🎓 High School Academic Portal
 
-Comprehensive institutional portal providing student performance tracking, teacher grade/attendance submission, parent oversight, and administrative governance workflows.
+Comprehensive institutional portal providing student performance tracking, teacher result/attendance submission, parent oversight, and administrative governance workflows.
 
 * **Key Highlights**:  JWT authentication with 4-tier RBAC (Admin, Teacher, Student, Parent), relational MySQL schema with Sequelize ORM, automated email verification & password activation, and real-time academic analytics.
 * **Tech Stack**:React 19, TypeScript, Tailwind CSS, Node.js, Express, MySQL, Sequelize
