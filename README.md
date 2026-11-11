@@ -110,7 +110,7 @@ const mitiku = {
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/projects/Screenshot 2026-11-11 221614.jpg" width="100%" alt="Organization Member Management System Mockup"/>
+<img src="assets/projects/ommsimage.jpg" width="100%" alt="Organization Member Management image"/>
 
 ### 🏢 Organization Member Management System (OMMS)
 Comprehensive full-stack management platform engineered to automate organizational records, role delegations, administrative audits, and member directories.
