@@ -124,6 +124,7 @@ Comprehensive full-stack management platform engineered to automate organization
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://github.com/mitihans-1/member-management#live-demo)
 
 </td>
+
 <td width="50%" valign="top">
 
 <img src="assets/projects/fuelsync-preview.jpg" width="100%" alt="FuelSync Smart Fuel Management Mockup"/>
@@ -146,16 +147,16 @@ Smart fuel management solution designed to streamline fuel inventory, dispensing
 
 <img src="assets/projects/grade-portal-preview.jpg" width="100%" alt="University Grade Portal Web Mockup"/>
 
-### 🎓 University Grade Portal
-Secure academic management portal providing self-service grade lookups for students and role-restricted result submission workflows for instructors.
+### 🎓 High School Academic & Grade Portal
 
-* **Key Highlights**: JWT authentication, fine-grained access control, scalable MongoDB document models, and instant score aggregation.
-* **Tech Stack**: React, Node.js, Express, MongoDB
+Comprehensive institutional portal providing student performance tracking, teacher grade/attendance submission, parent oversight, and administrative governance workflows.
 
+* **Key Highlights**:  JWT authentication with 4-tier RBAC (Admin, Teacher, Student, Parent), relational MySQL schema with Sequelize ORM, automated email verification & password activation, and real-time academic analytics.
+* **Tech Stack**:React 19, TypeScript, Tailwind CSS, Node.js, Express, MySQL, Sequelize
 <br/>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://github.com/mitihans-1)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1/High-school-portal)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://high-school-portal.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -183,11 +184,14 @@ E-commerce platform connecting buyers and vendors with dynamic product catalogs,
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=mitihans-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub 3D Trophies"/>
 <img src="assets/stats/trophies.svg" width="100%" alt="GitHub 3D Trophies"/>
 
 <br/>
 <br/>
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mitihans-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitihans-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 <img height="195" src="assets/stats/github-stats.svg" alt="GitHub Stats"/>
 <img height="195" src="assets/stats/top-langs.svg" alt="Top Languages"/>
 
