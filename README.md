@@ -147,7 +147,7 @@ Smart fuel management solution designed to streamline fuel inventory, dispensing
 
 <img src="assets/projects/grade-portal-preview.jpg" width="100%" alt="University Grade Portal Web Mockup"/>
 
-### 🎓 High School Academic & Grade Portal
+### 🎓 High School Academic Portal
 
 Comprehensive institutional portal providing student performance tracking, teacher grade/attendance submission, parent oversight, and administrative governance workflows.
 
