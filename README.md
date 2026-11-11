@@ -110,7 +110,7 @@ const mitiku = {
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/projects/omms-preview.jpg" width="100%" alt="Organization Member Management System Mockup"/>
+<img src="assets/projects/Screenshot 2026-11-11 221614.jpg" width="100%" alt="Organization Member Management System Mockup"/>
 
 ### 🏢 Organization Member Management System (OMMS)
 Comprehensive full-stack management platform engineered to automate organizational records, role delegations, administrative audits, and member directories.
@@ -145,7 +145,9 @@ Smart fuel management solution designed to streamline fuel inventory, dispensing
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/projects/grade-portal-preview.jpg" width="100%" alt="University Grade Portal Web Mockup"/>
+<a href="https://high-school-portal.vercel.app" target="_blank">
+  <img src="assets/projects/grade-portal-preview.jpg" width="100%" alt="High School Academic Portal Web Mockup"/>
+</a>
 
 ### 🎓 High School Academic Portal
 
