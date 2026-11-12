@@ -148,7 +148,7 @@ Smart fuel management solution designed to streamline fuel inventory, dispensing
 <td width="50%" valign="top">
 
 <a href="https://high-school-portal.vercel.app" target="_blank">
-  <img src="assets/projects/schoolportal.jpg" width="100%" alt="High School Academic Portal Web Mockup"/>
+  <img src="assets/projects/schoolpartal.jpg" width="100%" alt="High School Academic Portal Web Mockup"/>
 </a>
 
 ### 🎓 High School Academic Portal
