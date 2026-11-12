@@ -110,10 +110,10 @@ const mitiku = {
 <tr>
 <td width="50%" valign="top">
 
-<a href="organization-member-management-yust.vercel.app" target="_blank">
-  <img src="assets/projects/omms-screenshot.png" width="100%" alt="Organization Member Management image"/>
+<a href="https://organization-member-management-yust.vercel.app" target="_blank">
+  <img src="assets/projects/omms-screenshot.png" width="100%" alt="Organization Member Management System Preview"/>
 </a>
-<img src="assets/projects/omms-screenshot.png" width="100%" alt="Organization Member Management image"/>
+
 ### 🏢 Organization Member Management System (OMMS)
 Comprehensive full-stack management platform engineered to automate organizational records, role delegations, administrative audits, and member directories.
 
@@ -123,7 +123,7 @@ Comprehensive full-stack management platform engineered to automate organization
 <br/>
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/mitihans-1/member-management)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://github.com/mitihans-1/member-management#live-demo)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=flat-square&logo=vercel&logoColor=white)](https://organization-member-management-yust.vercel.app)
 
 </td>
 
